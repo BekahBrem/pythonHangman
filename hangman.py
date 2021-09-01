@@ -3,9 +3,10 @@
 
 import random
 
-words = ['rainbow', 'computer', 'science', 'programming',
-         'python', 'mathematics', 'player', 'condition',
-         'reverse', 'water', 'board', 'geeks']
+#Thank you https://www.randomlists.com/random-words
+words = ['illegal', 'sigh', 'historical', 'whispering',
+         'halting', 'worm', 'player', 'return',
+         'push', 'crabby', 'board', 'gigantic']
  
 word = random.choice(words)
 
